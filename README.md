@@ -1,2 +1,2 @@
 # Auction-Stars
-This is a Live Auction Site where Anyone Can sold or bye their items.
+This is a Live Auction Site where Anyone Can sell or buy their items.
